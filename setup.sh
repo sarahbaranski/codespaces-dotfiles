@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello world!" >./hello.txt
+echo "hello world!" >/workspaces/terraform/hello.txt
